@@ -27,9 +27,11 @@ https://imgur.com/a/15JBojj
 ## Deployment
 Deploy the API to the environment. Note any discrepancies in expected outcomes. For example, receiving "Hello from Lambda" as a response instead of the expected animal number and name suggests a need for code debugging.
 
+https://imgur.com/a/Ei5yoKz
+
+
 ## Challenges and Learning Points
 
-https://imgur.com/a/Ei5yoKz
 - Initially received "Hello from Lambda" due to path issues in JSON and Python scripts, indicating the need for correct path configurations.
 
 https://imgur.com/AMHN3Jm.png
